@@ -1,0 +1,24 @@
+[
+    {
+        "Author": "Sgtcatt",
+        "Name": "Msq cutscene skipper",
+        "Description": "Thank you to a08381 for the original cutscene skip plugin https://github.com/a08381/Dalamud.SkipCutscene",
+        "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
+        "InternalName": "MSQCutsceneSkipper",
+        "RepoUrl": "https://github.com/MisterCatt/temp.git",
+        "ApplicableVersion": "any",
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "DownloadCount": 0,
+        "LastUpdate": 0,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/MisterCatt/temp/raw/master/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/MisterCatt/temp/raw/master/latest.zip",
+        "DownloadLinkTesting": "https://github.com/MisterCatt/temp/raw/master/latest.zip",
+        "Tags": [
+            "SkipCutscene",
+            "Skip",
+            "MSQ"
+        ]
+    }
+]
