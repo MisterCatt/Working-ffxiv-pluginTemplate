@@ -9,7 +9,7 @@
         "RepoUrl": "https://github.com/MisterCatt/temp",
         "ApplicableVersion": "any",
         "IsHide": "False",
-        "IsTestingExclusive": "False",
+        "IsTestingExclusive": "false",
         "DownloadCount": 0,
         "LastUpdate": 0,
         "LoadPriority": 0,
